@@ -1,6 +1,6 @@
 # Como executar o código
 1 - Baixe os arquivos em um diretório
-br
+<br/>
 2 - Abra este diretório no VsCode
 3 - Abra o arquivo "index.html"
 4 - Clique em "Go Live" no canto inferior direito
