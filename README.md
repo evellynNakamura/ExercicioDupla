@@ -3,7 +3,7 @@
 <br/>
 2 - Abra este diretório no VsCode
 <br/>
-3 - Abra o arquivo "index.html"
+3 - Abra o arquivo "dupla.html"
 <br/>
 4 - Clique em "Go Live" no canto inferior direito
 
